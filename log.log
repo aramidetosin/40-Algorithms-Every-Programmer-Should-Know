@@ -1,0 +1,11 @@
+2022-04-29 02:18:45,488 - INFO - my name is Tosin
+2022-04-29 02:18:45,489 - INFO - info
+2022-04-29 02:18:45,489 - WARNING - warnings
+2022-04-29 02:18:45,489 - ERROR - error
+2022-04-29 02:18:45,489 - CRITICAL - critical
+2022-04-29 02:18:45,489 - ERROR - Test
+Traceback (most recent call last):
+  File "/home/aramideo/PycharmProjects/pluralsightpythonpath/python_logging.py", line 14, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2022-04-29 02:18:45,490 - INFO - test the custom logger
