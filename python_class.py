@@ -41,5 +41,3 @@ d = Dog("Tim", 35)
 logger.info(f"{d.get_name()}")
 logger.info(f"{d.get_age()}")
 logger.info(d.set_age(30))
-
-# d.bark()
